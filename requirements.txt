@@ -4,3 +4,4 @@ langchain-google-genai
 langchain-core
 pandas
 python-dotenv
+google-generativeai
